@@ -1,0 +1,47 @@
+.header{
+    color: #E52A23;
+    height: 100px;    
+}
+.btn-red{
+    background-color: #E52A23;
+    padding-top: 15px;
+    padding-left: 50PX;
+    color: white;
+    font-weight: bold;
+}
+.imgTam{
+    padding: 10px;
+    padding-left: 30px;
+    height: 70px;
+}
+.imgTam2{
+    padding: 10px;
+    width: 70px;
+    height: 70px;
+}
+.usuario{  
+    padding-left: 50px;
+}
+.usuario2{
+    padding-top: 25px;
+    text-align: right;
+    color: #E52A23;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.col1{
+    text-align: right;
+}
+.col2{
+    text-align-last: left;
+}
+.imgDatos{
+    display: block;
+    margin: auto;
+    border: none;
+}
+.datosUsuario{
+    /*background-color: rgb(60, 156, 124);*/
+    border:  #E52A23 5px solid;
+}
+
